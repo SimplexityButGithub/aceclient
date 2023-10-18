@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("cdn.ace.client.dev/raw.txt"))()
+loadstring(game:HttpGet(('https://simplexitybutgithub.github.io/aceclient/raw.txt'),true))()
