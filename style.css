@@ -1,0 +1,38 @@
+body {
+    background-image: url('bck.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', sans-serif;
+    color: red;
+    text-align: center;
+
+   
+  }
+
+  .dark-textbox {
+    background-color: #111;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    height: 150px;
+  }
+
+  .copy-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+
+  .download-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
